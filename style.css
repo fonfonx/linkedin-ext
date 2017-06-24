@@ -1,0 +1,16 @@
+.register-form {
+  display: none;
+}
+
+body.advocate-modal-visible {
+  overflow: visible !important;
+}
+
+/* body application-body main */
+/*#advocate-modal {
+  background-color: rgba(0, 0, 0, 0) !important;
+}*/
+
+#advocate-modal.show {
+  display: none !important;
+}
