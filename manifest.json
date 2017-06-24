@@ -5,6 +5,12 @@
   "version": "0.0.1",
   "description": "See linkedin content without having a linkedin account",
 
+  "icons": {
+    "16": "linkedin_logo_16.png",
+    "48": "linkedin_logo_48.png",
+    "128": "linkedin_logo_128.png"
+  },
+
   "content_scripts": [{
     "css": ["style.css"],
     "js": ["main.js"],
